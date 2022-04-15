@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\Oklt\Desktop\Projects\C++\Debug\Direct3D11.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\Oklt\Desktop\Projects\C++\Direct3D11\LightPixelShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Oklt\Desktop\Projects\C++\Direct3D11\LightVertexShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Oklt\Desktop\Projects\C++\Direct3D11\PS_Glossy.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Oklt\Desktop\Projects\C++\Direct3D11\PS_Matt.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Oklt\Desktop\Projects\C++\Direct3D11\PS_Rough.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Oklt\Desktop\Projects\C++\Direct3D11\VS_Glossy.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Oklt\Desktop\Projects\C++\Direct3D11\VS_Matt.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Oklt\Desktop\Projects\C++\Direct3D11\VS_Rough.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
